@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Van\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="D:\Orbital\virtual art\Visual-Art--master\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-61ebb36cb332a3e95027eb73eeebf7d2e5751350.jar" />
+    </item>
+    <item
+        jar="D:\Orbital\virtual art\Visual-Art--master\app\build\intermediates\exploded-aar\com.facebook.android\facebook\4.4.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="82f633b2b02f552c3b5418c0007777478bca34ca">
+        <dex dex="D:\Orbital\virtual art\Visual-Art--master\app\build\intermediates\pre-dexed\debug\classes-9ab7c2f43a6c36bc731d2b77eb98d2af4d87e89c.jar" />
+    </item>
+    <item
+        jar="D:\Android SDK\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="D:\Orbital\virtual art\Visual-Art--master\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-4c54de55dc5bd4eb974ae950a7187839b0239ad4.jar" />
+    </item>
+    <item
+        jar="D:\Orbital\virtual art\Visual-Art--master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\Orbital\virtual art\Visual-Art--master\app\build\intermediates\pre-dexed\debug\classes-dc3f28db3dce2beafcde8ee93c057c520ff6134a.jar" />
+    </item>
+    <item
+        jar="D:\Orbital\virtual art\Visual-Art--master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\Orbital\virtual art\Visual-Art--master\app\build\intermediates\pre-dexed\debug\classes-926ed8ce1abedf7795a740f5967f7a51dfae73c2.jar" />
+    </item>
+    <item
+        jar="D:\Orbital\virtual art\Visual-Art--master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\Orbital\virtual art\Visual-Art--master\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-0616e48e1178a3d97392ddbaedc60cc015adb132.jar" />
+    </item>
+
+</items>
